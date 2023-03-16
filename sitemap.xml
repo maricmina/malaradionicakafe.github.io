@@ -1,23 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 	  <loc>https://maricmina.github.io/malaradionicakafe.github.io/</loc>
 	  <lastmod>2023-03-16T21:07:58+00:00</lastmod>
-	  <priority>1.00</priority>
+	  <changefreq>daily</changefreq>
+	  <priority>1</priority>
 	</url>
 	<url>
 	  <loc>https://maricmina.github.io/malaradionicakafe.github.io/index.html</loc>
 	  <lastmod>2023-03-16T21:07:58+00:00</lastmod>
-	  <priority>0.80</priority>
+	  <changefreq>weekly</changefreq>
+	  <priority>0.8</priority>
 	</url>
 	<url>
 	  <loc>https://maricmina.github.io/malaradionicakafe.github.io/o-nama.html</loc>
 	  <lastmod>2023-03-16T21:07:58+00:00</lastmod>
-	  <priority>0.80</priority>
+	  <changefreq>weekly</changefreq>
+	  <priority>0.8</priority>
 	</url>
 	<url>
 	  <loc>https://maricmina.github.io/malaradionicakafe.github.io/o-autoru.html</loc>
 	  <lastmod>2023-03-16T21:07:58+00:00</lastmod>
-	  <priority>0.80</priority>
+	  <changefreq>monthly</changefreq>
+	  <priority>0.7</priority>
 	</url>
 </urlset>
