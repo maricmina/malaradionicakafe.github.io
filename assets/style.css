@@ -6,10 +6,6 @@
 	line-height: 2em;	
 }
 
-body::-webkit-Scrollbar {
-	display: none;
-	overflow-y: hidden;
-}
 
 header {
 	height: 700px;
@@ -94,7 +90,7 @@ nav ul li a:hover {
 }
 
 .section2 {
-	width: 30%;
+	width: 29.5%;
 	float: left;
 	display: block;
 	padding: 23px;
